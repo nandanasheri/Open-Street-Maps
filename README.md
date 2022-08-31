@@ -1,1 +1,2 @@
 # Open-Street-Maps
+This program creates a navigation application between the buildings on the East Campus of University of Illinois at Chicago. Using the footpaths between this building, to find the shortest weighted path between the buildings, the program uses Dijkstra's Algorithm to calculate the optimal path to get to class for a student. This application also uses Open Street Maps (https://www.openstreetmap.org/), and consists of the creation of a Graph class to implement the navigation. 
